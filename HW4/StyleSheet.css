@@ -1,0 +1,19 @@
+﻿body {
+    background-image: url('./images/dollabillsyall.jpg');
+    font-family: Playbill;
+    font-size: 25px;
+    text-align:center;
+    border-style:groove;
+    padding:4px;
+    border-color:white;
+}
+
+div {
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+
